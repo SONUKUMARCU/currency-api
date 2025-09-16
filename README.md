@@ -4,3 +4,4 @@
 <h1 align="center">OLD USERS OF THIS CURRENCY-API CAN READ THE MIGRATION GUIDE HERE: <br>
   https://github.com/fawazahmed0/exchange-api/blob/main/MIGRATION.md
 </h1>
+- kunal kushwaha said this community is amazing
